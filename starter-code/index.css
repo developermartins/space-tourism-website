@@ -41,3 +41,12 @@ picture {
     display: block;
 }
 
+/* set up forms */
+
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
+
