@@ -33,3 +33,11 @@ body {
     min-height: 100vh;
 }
 
+/* set up images */
+
+img, 
+picture {
+    max-width: 100%;
+    display: block;
+}
+
